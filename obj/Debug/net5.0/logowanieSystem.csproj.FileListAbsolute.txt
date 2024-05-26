@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\logowanieSystem\bin\Debug\net5.0\logowanieSystem.exe
+C:\Users\Student\source\repos\logowanieSystem\bin\Debug\net5.0\logowanieSystem.deps.json
+C:\Users\Student\source\repos\logowanieSystem\bin\Debug\net5.0\logowanieSystem.runtimeconfig.json
+C:\Users\Student\source\repos\logowanieSystem\bin\Debug\net5.0\logowanieSystem.runtimeconfig.dev.json
+C:\Users\Student\source\repos\logowanieSystem\bin\Debug\net5.0\logowanieSystem.dll
+C:\Users\Student\source\repos\logowanieSystem\bin\Debug\net5.0\ref\logowanieSystem.dll
+C:\Users\Student\source\repos\logowanieSystem\bin\Debug\net5.0\logowanieSystem.pdb
+C:\Users\Student\source\repos\logowanieSystem\obj\Debug\net5.0\logowanieSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\logowanieSystem\obj\Debug\net5.0\logowanieSystem.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\logowanieSystem\obj\Debug\net5.0\logowanieSystem.AssemblyInfo.cs
+C:\Users\Student\source\repos\logowanieSystem\obj\Debug\net5.0\logowanieSystem.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\logowanieSystem\obj\Debug\net5.0\logowanieSystem.dll
+C:\Users\Student\source\repos\logowanieSystem\obj\Debug\net5.0\ref\logowanieSystem.dll
+C:\Users\Student\source\repos\logowanieSystem\obj\Debug\net5.0\logowanieSystem.pdb
+C:\Users\Student\source\repos\logowanieSystem\obj\Debug\net5.0\logowanieSystem.genruntimeconfig.cache
